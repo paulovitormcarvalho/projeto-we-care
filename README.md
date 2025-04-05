@@ -37,3 +37,6 @@ O site foi projetado para se adaptar automaticamente a diferentes dispositivos, 
 
 <li> Melhorar animações e efeitos visuais. </li>
 </ul>
+<br>
+
+<img src="./img/img do projeto we-care README.jpg" style="width: 100vw;">
